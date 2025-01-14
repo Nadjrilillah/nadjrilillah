@@ -27,4 +27,4 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nadjrilillah&theme=algolia" alt="Muhammad Nadjrilillah" />
 </p>
 
-![Muhammad Nadjrilillah](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
+
