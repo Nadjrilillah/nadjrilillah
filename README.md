@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+👾 Game Developer | Game Programmer & Game Artist
+
+Halo! Saya seorang game developer dengan fokus utama pada game programming dan game art. Saya suka menciptakan pengalaman bermain game yang menggabungkan mekanika solid dan visual yang memukau.
+
+💻 Keahlian Utama
+
+Game Programming: Membuat sistem gameplay, AI, dan mekanika permainan menggunakan engine seperti Unity (C#) dan Unreal Engine (C++).
+Game Art: Merancang aset visual, mulai dari konsep hingga model 2D/3D, untuk menghadirkan estetika yang menarik.
+🎮 Minat & Proyek
+Saya senang menjelajahi teknologi baru dalam dunia pengembangan game, seperti VR/AR, procedural generation, dan shader programming.
+Di repositori saya, Anda akan menemukan proyek-proyek terkait game engine, gameplay mechanics, dan seni digital.
+
+🌟 Mari Berkolaborasi!
+Saya selalu terbuka untuk berkolaborasi dalam proyek menarik. Jika Anda memiliki ide keren atau butuh kontribusi, jangan ragu untuk menghubungi saya.
 <!--
 **Nadjrilillah/nadjrilillah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
